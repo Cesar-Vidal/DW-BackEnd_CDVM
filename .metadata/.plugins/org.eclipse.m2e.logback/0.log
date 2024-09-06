@@ -2252,3 +2252,8 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-09-05 20:32:57,247 [Worker-3: Launching Executing install in C__Users_rasec_OneDrive_Documentos_workspace_spring-service-tienda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\rasec\Downloads\sts-4.24.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
 2024-09-05 20:32:57,248 [Worker-3: Launching Executing install in C__Users_rasec_OneDrive_Documentos_workspace_spring-service-tienda] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\rasec\OneDrive\Documentos\workspace\spring-service-tienda":
 2024-09-05 20:32:57,248 [Worker-3: Launching Executing install in C__Users_rasec_OneDrive_Documentos_workspace_spring-service-tienda] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2024-09-05 21:32:24,776 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-05 21:32:30,935 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-05 21:32:30,958 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-09-05 21:32:30,973 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rasec\OneDrive\Documentos\workspace\spring-service-celulares\src\test\resources
+2024-09-05 21:34:15,444 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
