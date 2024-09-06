@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-start-debug</actionName>
+            <displayName>start-debug</displayName>
+            <goals>
+                <goal>org.springframework.boot:spring-boot-maven-plugin:3.2.3:start</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-DEVYGG</actionName>
+            <displayName>DEVYGG</displayName>
+            <goals>
+                <goal>org.springframework.boot:spring-boot-maven-plugin:3.2.3:run</goal>
+            </goals>
+            <properties>
+                <e></e>
+                <X></X>
+            </properties>
+        </action>
+    </actions>
